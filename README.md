@@ -4,7 +4,7 @@
 
 Este projeto é um desafio da comunidade codelândia construída pelo [IuriCode](https://github.com/iuricode).
 
-[Acesse o site aqui](https://desafio3onepage.netlify.app/)
+[Acesse o site aqui](https://desafio3codelandia.vercel.app/)
 
 ## Demonstração
 ![123123123](https://user-images.githubusercontent.com/82620787/203885656-71e34b94-796a-4612-bade-d42e572df45f.png)
